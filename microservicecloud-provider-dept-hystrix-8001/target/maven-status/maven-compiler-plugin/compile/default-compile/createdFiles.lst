@@ -1,0 +1,5 @@
+com\hash\springcloud\controller\DeptController.class
+com\hash\springcloud\dao\DeptDao.class
+com\hash\springcloud\service\DeptService.class
+com\hash\springcloud\DeptProvider8001_Hystrix_App.class
+com\hash\springcloud\service\impl\DeptServiceImpl.class
